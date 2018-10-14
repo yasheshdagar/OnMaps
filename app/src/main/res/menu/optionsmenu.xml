@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/panorama"
+        app:showAsAction="never"
+        android:title="Panaroma" />
+
+    <item
+        android:id="@+id/mylocation"
+        app:showAsAction="never"
+        android:title="My Location" />
+
+    <item
+        android:id="@+id/share"
+        app:showAsAction="never"
+        android:title="Share Location" />
+
+    <item
+        android:id="@+id/copyright"
+        app:showAsAction="always"
+        android:title="© Yashesh Dagar" />
+</menu>
